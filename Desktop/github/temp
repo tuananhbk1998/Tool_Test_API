@@ -1,0 +1,10 @@
+[
+    {
+        "ip": "172.16.1.98",
+        "username": "admin",
+        "userpwd": "Bkav@2020",
+        "type": ["persondetection", "facerecognition", "facemask"],
+        "times": 3
+    }
+]
+
