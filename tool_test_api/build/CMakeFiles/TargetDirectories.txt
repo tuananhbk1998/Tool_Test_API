@@ -1,0 +1,3 @@
+/home/anhmtc/Documents/BKAV/toottestapi/testAPI/build/CMakeFiles/edit_cache.dir
+/home/anhmtc/Documents/BKAV/toottestapi/testAPI/build/CMakeFiles/rebuild_cache.dir
+/home/anhmtc/Documents/BKAV/toottestapi/testAPI/build/CMakeFiles/testAPI.dir

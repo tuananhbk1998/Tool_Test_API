@@ -1,0 +1,1 @@
+/usr/bin/c++    -no-pie -rdynamic CMakeFiles/testAPI.dir/src/HttpClient/HttpClient.cpp.o CMakeFiles/testAPI.dir/src/HttpSession/HttpSession.cpp.o CMakeFiles/testAPI.dir/src/api.cpp.o CMakeFiles/testAPI.dir/src/main.cpp.o  -o testAPI  -L/home/anhmtc/Documents/BKAV/toottestapi/testAPI/curl/lib -Wl,-rpath,/home/anhmtc/Documents/BKAV/toottestapi/testAPI/curl/lib -lcurl -lpthread 
